@@ -1,11 +1,15 @@
 # ProyectoFinalAnalisis-
-El siguiente proye es acerca de la recopilacion de datos para poder hacer unas visualizaciones dependiendo de cada caso de estudio, en este caso tenemos 5 tematicas.
+El presente proyecto trata sobre la recopilación de datos de distintias fuentes como redes sociales, páginas de internet y datasets, siguiendo los procesos de extracción de la información, limpieza, procesamiento y visualización. A continuación, se presentan las temáticas estudiadas:
 
 1.     Pulso político en 20 ciudades principales de Ecuador.
 2.     Pulso político por provincias en Ecuador.
 3.     Juegos en línea por países.
 4.     Tema definido por el estudiante.
 5.     Eventos o noticias mundiales.
+
+
+CASO 1:
+ Para el análisis, se consideró
 
 En el punto 5 (Eventos o noticias mundiales) se hizo la extraccion de datos de youtube, instagram y tik-tok scraper, utilizando otoparce, seobots.io y tik-tok scraper, 
 para poder realizar la limpieza de los datos extraidos utilizamos la herramienta rapidminer, una vez obtenida nuestros archivos limpios procedemos a guardar los datos 
